@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+                   0count = 0000
+                  40count = 0001
+                  60count = 0010
+                  80count = 0011
+                 100count = 0100
+                 120count = 0101
+                 140count = 0110
+                 160count = 0111
+                 180count = 1000
+                 200count = 1001
+                 220count = 1010
+                 234count = 0000
+                 300count = 0001
+                 320count = 0010
+                 340count = 0011
+                 360count = 0100
+                 380count = 0101
+$finish called at time : 400 ns : File "C:/M.TECH IITP/project_2/project_2.srcs/sim_1/new/counter_test.v" Line 21

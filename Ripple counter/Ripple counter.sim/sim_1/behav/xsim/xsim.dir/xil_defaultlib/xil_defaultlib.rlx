@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/M.TECH IITP/Ripple counter/Ripple counter.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/M.TECH IITP/Ripple counter/Ripple counter.srcs/sim_1/new/counter_test.v,1704565269,verilog,,,,counter_test,,,,,,,,
+C:/M.TECH IITP/Ripple counter/Ripple counter.srcs/sources_1/new/D_FF.v,1704564031,verilog,,C:/M.TECH IITP/Ripple counter/Ripple counter.srcs/sources_1/new/T_FF.v,,D_FF,,,,,,,,
+C:/M.TECH IITP/Ripple counter/Ripple counter.srcs/sources_1/new/T_FF.v,1704563297,verilog,,C:/M.TECH IITP/Ripple counter/Ripple counter.srcs/sources_1/new/counter.v,,T_FF,,,,,,,,
+C:/M.TECH IITP/Ripple counter/Ripple counter.srcs/sources_1/new/counter.v,1704565140,verilog,,C:/M.TECH IITP/Ripple counter/Ripple counter.srcs/sim_1/new/counter_test.v,,DFF;TFF;counter,,,,,,,,
